@@ -1,1 +1,1 @@
-# Pengolahan-Citra-Digital_sesi2
+# PengolahanCitraDigital_sesi2
